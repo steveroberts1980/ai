@@ -1,0 +1,72 @@
+appdirs==1.4.4
+beautifulsoup4==4.13.4
+BenderLibIsengard @ git+ssh://git.amazon.com/pkg/BenderLibIsengard@039faec2486c268157d1b36b73ee181a25c49439
+boto3==1.34.119
+botocore==1.34.119
+certifi==2024.2.2
+chardet==5.2.0
+charset-normalizer==3.3.2
+cid-cmd==0.3.10
+cid-internal @ git+ssh://git.amazon.com/pkg/CudosPluginsInternal@fd1c2d60f7adf5591c36b0d6a7c06d513c77356c
+click @ git+ssh://git.amazon.com/pkg/Python-click@57e04aab5c0b4c3e9a866a9b31a284d0c971c316
+colorama==0.4.6
+cramjam==2.8.3
+et-xmlfile==1.1.0
+fastparquet==2024.5.0
+fsspec==2024.9.0
+gitdb==4.0.12
+GitPython==3.1.44
+idna==3.7
+InquirerPy @ git+ssh://git.amazon.com/pkg/Python-inquirerpy@816b0de800999be5ec558e3792babcfd8f7138d9
+isendot @ git+ssh://git.amazon.com/pkg/IsenDot@6f28dbc031b215c6e3d6df8ff2be64e07222fd5b
+jmespath==1.0.1
+joblib==1.4.2
+lxml==5.4.0
+mando==0.7.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==1.26.4
+openpyxl==3.1.5
+packaging==24.1
+pandas==2.2.3
+parse==1.20.2
+pfzy==0.3.4
+prompt-toolkit==3.0.36
+pyarrow==17.0.0
+pydub==0.25.1
+Pygments==2.19.1
+pygount==2.0.0
+Pyk2 @ git+ssh://git.amazon.com/pkg/Pyk2@29ba8709b1de2c0946a35ee1d83ce653025a3ea0
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+PythonAwsStpMetricsClient @ git+ssh://git.amazon.com/pkg/PythonAwsStpMetricsClient@f0c8f636f38bfdb411097df50f10e49204c3df6c
+pytz==2024.2
+pywin32==310
+PyYAML==6.0.1
+questionary==2.0.1
+radon==6.0.1
+requests==2.32.3
+rich==13.9.4
+s3transfer==0.10.1
+scikit-learn==1.5.2
+scipy==1.14.1
+setuptools==70.0.0
+six==1.16.0
+smmap==5.0.2
+soupsieve==2.7
+tenacity==9.0.0
+threadpoolctl==3.5.0
+tqdm @ git+ssh://git.amazon.com/pkg/Python-tqdm@4ca491e93489fcdf2026d5ac35a2d9dfc219b323
+typing-inspection==0.4.0
+typing_extensions==4.13.2
+tzdata==2024.1
+tzlocal==5.2
+urllib3==1.26.20
+w3lib==2.3.1
+wcwidth==0.2.13
+websockets==10.4
+wincertstore==0.2
+windows-curses==2.4.1
+xlrd==2.0.1
+XlsxWriter==3.0.8
+zipp==3.21.0
